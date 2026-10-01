@@ -36,19 +36,19 @@ All five required problems were successfully submitted on HackerRank.
 
 ### Dynamic Array
 
-![Dynamic Array](./dynamic-array.png)
+![Dynamic Array](./Dynamic-Array.png)
 
 ### Time Conversion
 
-![Time Conversion](./time-conversion.png)
+![Time Conversion](./Time-Conversion.png)
 
 ### Compare the Triplets
 
-![Compare the Triplets](./compare-the-triplets.png)
+![Compare the Triplets](./Compare-The-Triplets.png)
 
 ### Sparse Arrays
 
-![Sparse Arrays](./sparse-array.png)
+![Sparse Arrays](./Sparse-Array.png)
 
 ## Skills Practiced
 
