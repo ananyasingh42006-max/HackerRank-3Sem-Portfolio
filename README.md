@@ -50,6 +50,10 @@ All five required problems were successfully submitted on HackerRank.
 
 ![Sparse Arrays](./Sparse-Array.png)
 
+### HackerRank Badge
+
+![HackerRank Badge](./badge.png)
+
 ## Skills Practiced
 
 - C Programming
